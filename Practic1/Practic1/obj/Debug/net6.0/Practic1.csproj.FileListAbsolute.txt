@@ -1,0 +1,64 @@
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\bin\Debug\net6.0\appsettings.json
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\bin\Debug\net6.0\Practic1.exe
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\bin\Debug\net6.0\Practic1.deps.json
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\bin\Debug\net6.0\Practic1.runtimeconfig.json
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\bin\Debug\net6.0\Practic1.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\bin\Debug\net6.0\Practic1.pdb
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\obj\Debug\net6.0\Practic1.csproj.AssemblyReference.cache
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\obj\Debug\net6.0\Practic1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\obj\Debug\net6.0\Practic1.AssemblyInfoInputs.cache
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\obj\Debug\net6.0\Practic1.AssemblyInfo.cs
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\obj\Debug\net6.0\Practic1.csproj.CoreCompileInputs.cache
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\obj\Debug\net6.0\Practic1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\obj\Debug\net6.0\Practic1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\obj\Debug\net6.0\staticwebassets\msbuild.Practic1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\obj\Debug\net6.0\staticwebassets\msbuild.build.Practic1.props
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Practic1.props
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Practic1.props
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\obj\Debug\net6.0\scopedcss\bundle\Practic1.styles.css
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\obj\Debug\net6.0\Practic1.csproj.CopyComplete
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\obj\Debug\net6.0\Practic1.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\obj\Debug\net6.0\refint\Practic1.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\obj\Debug\net6.0\Practic1.pdb
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\obj\Debug\net6.0\Practic1.genruntimeconfig.cache
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Разработка ПО\Practic1\Practic1\obj\Debug\net6.0\ref\Practic1.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\bin\Debug\net6.0\appsettings.json
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\bin\Debug\net6.0\Practic1.exe
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\bin\Debug\net6.0\Practic1.deps.json
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\bin\Debug\net6.0\Practic1.runtimeconfig.json
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\bin\Debug\net6.0\Practic1.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\bin\Debug\net6.0\Practic1.pdb
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\obj\Debug\net6.0\Practic1.csproj.AssemblyReference.cache
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\obj\Debug\net6.0\Practic1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\obj\Debug\net6.0\Practic1.AssemblyInfoInputs.cache
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\obj\Debug\net6.0\Practic1.AssemblyInfo.cs
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\obj\Debug\net6.0\Practic1.csproj.CoreCompileInputs.cache
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\obj\Debug\net6.0\Practic1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\obj\Debug\net6.0\Practic1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\obj\Debug\net6.0\staticwebassets\msbuild.Practic1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\obj\Debug\net6.0\staticwebassets\msbuild.build.Practic1.props
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Practic1.props
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Practic1.props
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\obj\Debug\net6.0\scopedcss\bundle\Practic1.styles.css
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\obj\Debug\net6.0\Practic1.csproj.CopyComplete
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\obj\Debug\net6.0\Practic1.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\obj\Debug\net6.0\refint\Practic1.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\obj\Debug\net6.0\Practic1.pdb
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\obj\Debug\net6.0\Practic1.genruntimeconfig.cache
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Practic1\Practic1\obj\Debug\net6.0\ref\Practic1.dll
