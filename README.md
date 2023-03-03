@@ -108,5 +108,6 @@ Constraint FK_Orders_Status foreign key (Status_id) references Status(ID)
 
 go
 
-```<img width="727" alt="image" src="https://user-images.githubusercontent.com/64079766/222714327-84c9d0b5-7f85-40c5-ae7b-059baf0cb462.png">
+```
+<img width="727" alt="image" src="https://user-images.githubusercontent.com/64079766/222714327-84c9d0b5-7f85-40c5-ae7b-059baf0cb462.png">
 
