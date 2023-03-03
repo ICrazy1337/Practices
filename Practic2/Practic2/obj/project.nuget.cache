@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6vk140Gf4bVme+8LRfdYdmj7f0q/UqJyP8YJ7m9HtfjVLz+y3RaHatZvxR/6piMu4s9dRy0DqQ3Ph+6C5iQyoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\buglo\\OneDrive\\Документы\\Рабочий стол\\Practic2\\Practic2\\Practic2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\buglo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\buglo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\buglo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\buglo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\buglo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\buglo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
