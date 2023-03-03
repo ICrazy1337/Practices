@@ -1,4 +1,4 @@
-# Борис Уголев 👽
+<h1>Борис Уголев 👽</h1>
 
 ![](https://otkritkis.com/wp-content/uploads/2022/07/mw7aj.gif)
 
@@ -11,10 +11,11 @@
 <img width="315" alt="image" src="https://user-images.githubusercontent.com/64079766/222698688-c688f6b6-39c3-425a-85c2-4bbd213e6794.png">
 
 <h1 align="center">Practice #3</h1>
-## Проектирование бд
+
+<h2>Проектирование бд</h2>
 ![диограма](https://user-images.githubusercontent.com/64079766/222713037-ed7a5ef6-5dd1-458a-849e-30270801e187.jpg)
 
-## Sql запрос на создание бд
+<h2>Sql запрос на создание бд</h2>
 ```create database InternetShop
 go
 use InternetShop
