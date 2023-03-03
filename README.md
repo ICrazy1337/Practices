@@ -15,7 +15,7 @@
 ![диограма](https://user-images.githubusercontent.com/64079766/222713037-ed7a5ef6-5dd1-458a-849e-30270801e187.jpg)
 
 ## Sql запрос на создание бд
-code() create database InternetShop
+`create database InternetShop
 go
 use InternetShop
 go
@@ -106,4 +106,4 @@ Constraint FK_Orders_Delivery foreign key (Delivery_id) references Delivery(ID),
 Constraint FK_Orders_Status foreign key (Status_id) references Status(ID)
 )
 
-go
+go`
