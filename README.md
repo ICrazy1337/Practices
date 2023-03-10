@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Борис+Уголев+👽)](https://i.gifer.com/BulL.gif)
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Борис+Уголев+👽)](https://i.gifer.com/BulL.gif)</h1>
 
 ![](https://otkritkis.com/wp-content/uploads/2022/07/mw7aj.gif)
 
