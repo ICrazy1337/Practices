@@ -1,4 +1,4 @@
-<h1 align="center" style="color:blue">Борис Уголев 👽</h1>
+<h1 align="center"><font color="blue">Борис Уголев 👽</font></h1>
 
 ![](https://otkritkis.com/wp-content/uploads/2022/07/mw7aj.gif)
 
