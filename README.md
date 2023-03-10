@@ -14,11 +14,11 @@
 
 <h1 align="center">Practice #3</h1>
 
-<h2>Проектирование бд</h2>
+<h2>Проектирование ER-модели БД</h2>
 
 ![диограма](https://user-images.githubusercontent.com/64079766/222713037-ed7a5ef6-5dd1-458a-849e-30270801e187.jpg)
 
-<h2>Sql запрос на создание бд</h2>
+<h2>Sql запрос и диограмма</h2>
 
 ```create database InternetShop
 go
