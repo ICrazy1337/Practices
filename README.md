@@ -117,3 +117,8 @@ go
 
 <img width="727" alt="image" src="https://user-images.githubusercontent.com/64079766/222714327-84c9d0b5-7f85-40c5-ae7b-059baf0cb462.png">
 
+<h2>Создание целей</h2>
+  
+<img width="875" alt="image" src="https://user-images.githubusercontent.com/64079766/224269602-391753f0-745e-4a15-a1fd-18793bc7efbd.png">
+
+
