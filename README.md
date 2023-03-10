@@ -7,14 +7,14 @@
 <img width="371" alt="image" src="https://user-images.githubusercontent.com/64079766/218176321-2915da54-d6da-41f5-b4ba-cb69d533ca72.png">
 <img width="317" alt="image" src="https://user-images.githubusercontent.com/64079766/218176479-7d7356ef-33c0-44a5-81d0-2d284b5e747a.png">
 
-<h1 align="center">Practice #2</h1>
+<h1 align="center"><a href="Practic2/Practic2">Practice #2</a></h1>
 
 <img width="334" alt="image" src="https://user-images.githubusercontent.com/64079766/222698585-9354b108-ec0a-4997-97a4-989b6e9e458a.png">
 <img width="315" alt="image" src="https://user-images.githubusercontent.com/64079766/222698688-c688f6b6-39c3-425a-85c2-4bbd213e6794.png">
 
 <h1 align="center">Practice #3</h1>
 
-<h2>Проектирование ER-модели БД</h2>
+<h2><a href="misc/model.jpg">Проектирование ER-модели БД</a></h2>
 
 ![диограма](https://user-images.githubusercontent.com/64079766/222713037-ed7a5ef6-5dd1-458a-849e-30270801e187.jpg)
 
