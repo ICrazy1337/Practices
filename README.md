@@ -1,5 +1,5 @@
 <h1>Борис Уголев 👽</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Моя+работа)](https://i.gifer.com/BulL.gif)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+second+practice+work)](https://i.gifer.com/BulL.gif)
 ![](https://otkritkis.com/wp-content/uploads/2022/07/mw7aj.gif)
 
 <h1 align="center">Practice #1</h1>
