@@ -12,7 +12,7 @@
 <img width="334" alt="image" src="https://user-images.githubusercontent.com/64079766/222698585-9354b108-ec0a-4997-97a4-989b6e9e458a.png">
 <img width="315" alt="image" src="https://user-images.githubusercontent.com/64079766/222698688-c688f6b6-39c3-425a-85c2-4bbd213e6794.png">
 
-<h1 align="center">Practice #3</h1>
+<h1 align="center">Practice #3 and #4</h1>
 
 <h2><a href="misc/model.jpg">Проектирование ER-модели БД</a></h2>
 
@@ -120,5 +120,16 @@ go
 <h2>Создание целей</h2>
   
 <img width="875" alt="image" src="https://user-images.githubusercontent.com/64079766/224269602-391753f0-745e-4a15-a1fd-18793bc7efbd.png">
+
+<h1 align="center">Practice #5</h1>
+
+<h2>Логика, подключение к бд</h2>
+
+<img width="1212" alt="image" src="https://user-images.githubusercontent.com/64079766/230577245-d96ae422-1ad1-4af7-9f6f-d73cbb88070e.png">
+
+<h2>User controller</h2>
+
+<img width="294" alt="image" src="https://user-images.githubusercontent.com/64079766/230578716-777a9ee7-3fa1-481c-a578-5285d4cad687.png">
+
 
 
