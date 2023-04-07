@@ -1,0 +1,71 @@
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\appsettings.json
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Internet Shop (practice 5).exe
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Internet Shop (practice 5).deps.json
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Internet Shop (practice 5).runtimeconfig.json
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Internet Shop (practice 5).dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Internet Shop (practice 5).pdb
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\obj\Debug\net6.0\Internet Shop (practice 5).csproj.AssemblyReference.cache
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\obj\Debug\net6.0\Internet Shop (practice 5).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\obj\Debug\net6.0\Internet Shop (practice 5).AssemblyInfoInputs.cache
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\obj\Debug\net6.0\Internet Shop (practice 5).AssemblyInfo.cs
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\obj\Debug\net6.0\Internet Shop (practice 5).csproj.CoreCompileInputs.cache
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\obj\Debug\net6.0\Internet Shop (practice 5).MvcApplicationPartsAssemblyInfo.cs
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\obj\Debug\net6.0\Internet Shop (practice 5).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\obj\Debug\net6.0\staticwebassets\msbuild.Internet Shop (practice 5).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\obj\Debug\net6.0\staticwebassets\msbuild.build.Internet Shop (practice 5).props
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Internet Shop (practice 5).props
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Internet Shop (practice 5).props
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\obj\Debug\net6.0\scopedcss\bundle\Internet Shop (practice 5).styles.css
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\obj\Debug\net6.0\Internet Shop (practice 5).csproj.CopyComplete
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\obj\Debug\net6.0\Internet Shop (practice 5).dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\obj\Debug\net6.0\refint\Internet Shop (practice 5).dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\obj\Debug\net6.0\Internet Shop (practice 5).pdb
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\obj\Debug\net6.0\Internet Shop (practice 5).genruntimeconfig.cache
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\obj\Debug\net6.0\ref\Internet Shop (practice 5).dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\DataAccess.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Humanizer.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\buglo\OneDrive\Документы\Рабочий стол\Internet Shop (practice 5)\Internet Shop (practice 5)\bin\Debug\net6.0\BusinessLogic.pdb

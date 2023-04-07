@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Internet Shop (practice 5).props" />
+</Project>
