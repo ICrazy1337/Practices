@@ -123,7 +123,7 @@ go
 
 <h1 align="center"><a href="Practic3">Practice #5</a></h1>
 
-<h2>Логика, подключение к бд</h2>
+<h2>Описание подключения к БД</h2>
 
 <img width="1212" alt="image" src="https://user-images.githubusercontent.com/64079766/230577245-d96ae422-1ad1-4af7-9f6f-d73cbb88070e.png">
 
@@ -131,5 +131,8 @@ go
 
 <img width="294" alt="image" src="https://user-images.githubusercontent.com/64079766/230578716-777a9ee7-3fa1-481c-a578-5285d4cad687.png">
 
+<h2>Вывод существующих пользователей</h2>
+
+<img width="1082" alt="image" src="https://user-images.githubusercontent.com/64079766/230579394-e26a983f-c923-4618-9e8b-54c8f912c637.png">
 
 
