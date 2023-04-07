@@ -121,7 +121,7 @@ go
   
 <img width="875" alt="image" src="https://user-images.githubusercontent.com/64079766/224269602-391753f0-745e-4a15-a1fd-18793bc7efbd.png">
 
-<h1 align="center">Practice #5</h1>
+<h1 align="center"><a href="Practic3">Practice #5</a></h1>
 
 <h2>Логика, подключение к бд</h2>
 
